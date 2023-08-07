@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XADjcTNEaHYxeC3bAml8Ehm6eiVJAGNTdKeCl41IdxA=",
+  "Source": "gitdemoapp",
+  "BasePath": "_content/gitdemoapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
